@@ -100,10 +100,10 @@
 
 Лог команд из папки **.git/logs**
 
-![Logs](screenshots/screenshot25.png)
+![Logs](screenshots/screen25.png)
 
 Конечный результат команды _git log_
 
-![git logs](screenshots/screenshot26.png)
+![git logs](screenshots/screen26.png)
 
 Все скриншоты лежат в папке **screenshots**
